@@ -14,9 +14,9 @@ import java.io.IOException;
 
 public class HelloApplication extends Application {
 
-    public TableView itemTableView;
-    public TableView transactionTableView;
-    private Database database = new Database();
+    public TableView<ObservableList<String>> itemTableView;
+    public TableView<ObservableList<String>> transactionTableView;
+    private final Database database = new Database();
     public TextField itemDescriptionField;
     public TextField qtyField;
     public TextField unitPriceField;
@@ -140,10 +140,7 @@ public class HelloApplication extends Application {
         date.setCellValueFactory(data -> new SimpleStringProperty(data.getValue().get(6)));
 
         transactionTableView.setItems(database.getTransactionsContent());
-
     }
-
-
 
 }
 
