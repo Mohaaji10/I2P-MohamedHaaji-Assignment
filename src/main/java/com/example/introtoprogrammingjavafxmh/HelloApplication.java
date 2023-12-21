@@ -1,6 +1,5 @@
 package com.example.introtoprogrammingjavafxmh;
 
-import com.example.introtoprogrammingjavafxmh.Database;
 import javafx.application.Application;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.ObservableList;
@@ -10,7 +9,6 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.stage.Stage;
 
-import org.w3c.dom.Text;
 
 import java.io.IOException;
 
