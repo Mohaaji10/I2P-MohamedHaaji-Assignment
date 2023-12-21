@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eceb7b0c-49f1-4719-9c89-efafafdc9b01" name="Changes" comment="Updated Code" />
+    <list default="true" id="eceb7b0c-49f1-4719-9c89-efafafdc9b01" name="Changes" comment="Updated Code">
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsoleUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsoleUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/items.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/items.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/transactions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/transactions.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +32,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -38,8 +53,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/614854822/I2P MohamedH Assignment"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/614854822/I2P MohamedH Assignment",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,6 +76,42 @@
       <option name="presentableId" value="Default" />
       <updated>1698663281919</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated Code">
+      <option name="closed" value="true" />
+      <created>1702291651157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702291651157</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Code" />
   </component>
 </project>

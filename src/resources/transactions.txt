@@ -1,3 +1,10 @@
-id,description, 
-00002,bb,12,276000.0,33
-00010,skdflkjsdlfs,3,60.0,7
+id,description,qtySold,amount,stockRemaining,transactionType,date
+00002,Item removed,0,0,0,removed,18/12/2023
+00002,Item searched,0,0,0,searched,19/12/2023
+00002,Item updated,0,0,0,updated,19/12/2023
+00009,Item added,0,0,0,added,19/12/2023
+00009,Item removed,0,0,0,removed,19/12/2023
+00009,Item updated,0,0,0,updated,19/12/2023
+00002,Item removed,0,0,0,removed,19/12/2023
+00004,Item removed,0,0,0,removed,19/12/2023
+00003,Item updated,0,0,0,updated,19/12/2023

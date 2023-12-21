@@ -1,3 +1,4 @@
+
 import java.util.List;
 import java.util.Scanner;
 
@@ -47,7 +48,7 @@ public class ConsoleUI {
      * Calls the corresponding method from TextInventory to add the item.
      */
 
-    public static void getuseriputadd(TextInventory inventory) {
+    public static void getuseriputadd() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter item description:");
@@ -111,7 +112,8 @@ public class ConsoleUI {
         inventory.searchanitem(itemId);
     }
 
-
-    public static void outputdailyreport(){}
+    public static void outputdailyreport(){
+        TextInventory.collectdailyreport(); // Call the method to generate and print the daily report
+    }
 
 }
